@@ -13,6 +13,9 @@ CREATE DATABASE challengepo;
 build
 
 ```sh
+# .env and fill in configs
+cp .env_example .env 
+
 # build
 npm run build
 
